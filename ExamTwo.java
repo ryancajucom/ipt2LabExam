@@ -104,7 +104,22 @@ public int getId() {
   
 
 //-------------------GALLARDO GALLARO -----------------------------------------------------------
+	public String getMunicipality() {
+    return municipality;
+  }
 
+
+  public String getPhoneNumber() {
+    return phoneNumber;
+  }
+
+  public String getOrder() {
+    return order;
+  }
+
+  public String getType() {
+    return type;
+  }
 
 
 
