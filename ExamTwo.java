@@ -42,7 +42,17 @@ public class ExamTwo{
 
 
 //-------------------CAJUCOM CAJUCOM-----------------------------------------------------------
+	public void setBarangay(String barangay) {
+    this.barangay = barangay;
+  }
 
+    public void setMunicipality(String municipality) {
+    this.municipality = municipality;
+  }
+
+  public void setPhoneNumber(String phoneNumber) {
+    this.phoneNumber = phoneNumber;
+  }
 
 
 //-------------------CAJUCOM CAJUCOM-----------------------------------------------------------
