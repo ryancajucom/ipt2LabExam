@@ -59,7 +59,13 @@ public class ExamTwo{
 
 
 //-------------------GUZMAN GUZMAN -----------------------------------------------------------
+public void setOrder(String order) {
+  this.order = order;
+}
 
+public void setType(String type) {
+  this.type = type;
+}
 
 
   //-------------------GUZMAN GUZMAN -----------------------------------------------------------
@@ -70,7 +76,9 @@ public class ExamTwo{
   //GETTER GETTER GETTER GETTER GETTER
 
 //-------------------GUZMAN GUZMAN -----------------------------------------------------------
- 
+public int getId() {
+  return id;
+}
 
 
 //-------------------GUZMAN GUZMAN -----------------------------------------------------------
