@@ -21,10 +21,11 @@ public class ExamTwo{
     setOrder ("testorder");
     setType ("testtype");
   }
-  
+
 
   // SETTER SETTER SETTER SETTER SETTER
     // SETTER SETTER SETTER SETTER SETTER
+// -----------------DELOS SANTOS -------------------------------------------------------------
 
  public void setId(int id) {
     this.id = id;
@@ -37,31 +38,51 @@ public class ExamTwo{
   public void setHouseNo(int houseNo) {
     this.houseNo = houseNo;
   }
+// -----------------DELOS SANTOS -------------------------------------------------------------
+
+
+//-------------------CAJUCOM CAJUCOM-----------------------------------------------------------
 
 
 
+//-------------------CAJUCOM CAJUCOM-----------------------------------------------------------
+
+
+//-------------------GUZMAN GUZMAN -----------------------------------------------------------
 
 
 
+  //-------------------GUZMAN GUZMAN -----------------------------------------------------------
 
 
 
   //GETTER GETTER GETTER GETTER GETTER
   //GETTER GETTER GETTER GETTER GETTER
 
-
+//-------------------GUZMAN GUZMAN -----------------------------------------------------------
  
 
 
+//-------------------GUZMAN GUZMAN -----------------------------------------------------------
 
 
 
+//-------------------GUINTO GUINTO -----------------------------------------------------------
 
 
+
+//-------------------GUINTO GUINTO -----------------------------------------------------------
 
   
 
+//-------------------GALLARDO GALLARO -----------------------------------------------------------
 
+
+
+
+//-------------------GALLARDO GALLARO -----------------------------------------------------------
+
+  
   //declaring variables for methods of cost and total cost of pizza
   
   double totalCost;
