@@ -26,7 +26,17 @@ public class ExamTwo{
   // SETTER SETTER SETTER SETTER SETTER
     // SETTER SETTER SETTER SETTER SETTER
 
+ public void setId(int id) {
+    this.id = id;
+  }
 
+  public void setName(String name) {
+    this.name = name;
+  }
+
+  public void setHouseNo(int houseNo) {
+    this.houseNo = houseNo;
+  }
 
 
 
