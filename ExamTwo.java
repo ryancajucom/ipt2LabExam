@@ -78,7 +78,17 @@ public class ExamTwo{
 
 
 //-------------------GUINTO GUINTO -----------------------------------------------------------
+ public String getName() {
+    return name;
+  }
 
+  public int getHouseNo() {
+    return houseNo;
+  }
+
+  public String getBarangay() {
+    return barangay;
+  }
 
 
 //-------------------GUINTO GUINTO -----------------------------------------------------------
